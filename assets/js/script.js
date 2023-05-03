@@ -9,10 +9,9 @@ $(function () {
   // time-block containing the button that was clicked? How might the id be
   // useful when saving the description in local storage?
   $(".saveBtn").on("click", function() {
-    // `this` refers to the button that was clicked
-    var timeBlockId = $(this).parent().attr("id"); // Get the id of the containing time-block
-    var userInput = $(this).siblings(".description").val(); // Get the value of the description textarea
-    localStorage.setItem(timeBlockId, userInput); // Save the user input in local storage with the timeBlockId as the key
+    var timeBlockId = $(this).parent().attr("id");
+    var userInput = $(this).siblings(".description").val();
+    localStorage.setItem(timeBlockId, userInput);
   });
   // TODO: Add code to apply the past, present, or future class to each time
   // block by comparing the id to the current hour. HINTS: How can the id
