@@ -18,10 +18,8 @@
 
   <h2 id="visuals">Visuals</h2>
   <p>Here are screenshots of the work day scheduler interface:</p>
-  <img src="./JavaScript Screenshot 1.png" alt="Work Day Scheduler Screenshot">
-  <img src="./JavaScript Screenshot 2.png" alt="Work Day Scheduler Screenshot">
-  <img src="./JavaScript Screenshot 3.png" alt="Work Day Scheduler Screenshot">
-  <img src="./JavaScript Screenshot 4.png" alt="Work Day Scheduler Screenshot">
+  <img src="./Work Day Scheduler 1.png" alt="Work Day Scheduler Screenshot">
+  <img src="./Work Day Scheduler 2.png" alt="Work Day Scheduler Screenshot">
 
   <h2 id="credits">Credits</h2>
   <p>The app uses the following external libraries:</p>
