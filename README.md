@@ -25,16 +25,17 @@
 
   <h2 id="credits">Credits</h2>
   <p>The app uses the following external libraries:</p>
-  <ul>
-    <li>
-        Bootstrap 5.1.3 (https://getbootstrap.com/docs/5.1/getting-started/introduction/)
-    </li>
-    <li>
-        Font Awesome 5.8.1 (https://fontawesome.com/v5.8.1/)
-    </li>
-    <li>
-        Jquery 5.8.1 (https://code.jquery.com/jquery-3.4.1.min.js)
-    </li>
+    <ul>
+        <li>
+            Bootstrap 5.1.3 (https://getbootstrap.com/docs/5.1/getting-started/introduction/)
+        </li>
+        <li>
+            Font Awesome 5.8.1 (https://fontawesome.com/v5.8.1/)
+        </li>
+        <li>
+            Jquery 5.8.1 (https://code.jquery.com/jquery-3.4.1.min.js)
+        </li>
+    </ul>
   
   <h2 id="contributing">Contributing</h2>
   <p>Contributions to the work day scheduler project are welcome! If you find a bug or have an idea for an improvement, feel free to open an issue or submit a pull request.</p>
